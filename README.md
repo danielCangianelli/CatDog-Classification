@@ -2,8 +2,9 @@
 
 Projeto completo de classificação de imagens envolvendo pré-processamento de dados, criação de modelo com Create ML e implementação em aplicativo iOS. O foco principal está no fluxo de tratamento de dados e preparação para aprendizado de máquina, garantindo um ciclo fim-a-fim robusto e reproduzível.
 
-![Pipeline Completo](./video.gif)
-
+<div align="center" style="max-width: 600px; margin: 0 auto;">
+  <img src="./video.gif" alt="Pipeline Completo" width="100%" />
+</div>
 ---
 
 ## 📂 Estrutura do Projeto
