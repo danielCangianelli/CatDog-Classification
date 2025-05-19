@@ -2,7 +2,7 @@
 
 Projeto completo de classificação de imagens envolvendo pré-processamento de dados, criação de modelo com Create ML e implementação em aplicativo iOS. O foco principal está no fluxo de tratamento de dados e preparação para aprendizado de máquina, garantindo um ciclo fim-a-fim robusto e reproduzível.
 
-[![Demo Compacta](https://img.shields.io/badge/Ver_Demo-FF6F61?style=for-the-badge)](./videoo.gif)
+[![Demo Compacta](https://img.shields.io/badge/Ver_Demo-FF6F61?style=for-the-badge)](./video.gif)
 
 ---
 
